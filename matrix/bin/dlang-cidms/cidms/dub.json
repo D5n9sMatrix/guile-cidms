@@ -1,0 +1,6 @@
+{
+    "name": "cidms",
+    "targetName": "cidms",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

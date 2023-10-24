@@ -1,0 +1,9 @@
+{
+    "name": "dlang-cidms",
+    "description": null,
+    "projects": {
+        "cidms": "cidms/dub.json"
+    },
+    "includePath": {
+    }
+}
